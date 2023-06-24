@@ -1,0 +1,20 @@
+ID: 1234
+Project: Yet enother project
+Title: After click Upgrade button in the Main menu, the server returns a 404 status code
+Repeatability: 100%
+Version: 2.3401 dev
+Preconditions: For accounts with Free plan
+Steps to repetition:
+    Step1: Log in with the Free plan account
+    Step2: Click the Hamburger button to call up the Main menu
+    Step3: Click the Upgrade button
+Actual result: The Subscription page doesn't load, the server returns a 404 status code
+Expected result: The Subscription page is loading
+Status: Open
+Severity: Blocker
+Priority: High
+Environment: Google Chrome 114.0.5735.134
+Attachment: Subscription_404.log
+Reporter: Aleksandr Makushev
+Assignee: Backend developer name
+Observers: Backend lead, QA lead, enother QA employee
