@@ -1,0 +1,4 @@
+Name - Aleksandr Makushev
+Age - 41
+Location - Angarsk, Irkutsk region
+Role - QA engineer manual
